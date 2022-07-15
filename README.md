@@ -17,6 +17,8 @@ POO - Práctica N°2 realizada en JAVA con IDE Apache Netbeans.
     - Matrices.
     - 'Static' vs 'Final'.
 
+Se suman, a su vez, los conceptos tratados en el repositorio 'POO_PracticaEnJava_1'.
+
 --------------------------------------------------------
 
 ~ Marcos Torrent.
